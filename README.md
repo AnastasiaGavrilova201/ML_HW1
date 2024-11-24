@@ -15,10 +15,11 @@
 
 Ввод файла
 
-<img width="1470" alt="Вывод файл" src="https://github.com/user-attachments/assets/0116093e-fb6c-445f-abba-678808cacb5e">
+<img width="1470" alt="Ввод файл" src="https://github.com/user-attachments/assets/7d76e8fe-80c1-4538-ad73-ea2ca254848c">
 
 Вывод файла
 
-<img width="1470" alt="Ввод файл" src="https://github.com/user-attachments/assets/7d76e8fe-80c1-4538-ad73-ea2ca254848c">
+<img width="1470" alt="Вывод файл" src="https://github.com/user-attachments/assets/0116093e-fb6c-445f-abba-678808cacb5e">
+
 
 
