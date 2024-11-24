@@ -1,4 +1,10 @@
 # ML_HW1
+ML часть в файле AI_HW1_Regression_with_inference_base-2.ipynb
+
+Api часть в fastapi_ml1.ipynb 
+
+Файл rrr.csv -- данные для тестирования апи, res.csv -- вывод апи для тестовых данных
+
 Скрины FastApi
 
 2 "рычага"
