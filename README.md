@@ -1,9 +1,8 @@
 # ML_HW1
-ML часть в файле AI_HW1_Regression_with_inference_base-2.ipynb
-
-Api часть в fastapi_ml1.ipynb 
 
 Файлы: 
+ - AI_HW1_Regression_with_inference_base-2.ipynb -- ML часть
+ - fastapi_ml1.ipynb -- Api часть c output'ами
  - rrr.csv -- данные для тестирования апи
  -  res.csv -- вывод апи для тестовых данных
  -  main.py -- сервисная часть
