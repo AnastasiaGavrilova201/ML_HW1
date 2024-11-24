@@ -3,7 +3,11 @@ ML часть в файле AI_HW1_Regression_with_inference_base-2.ipynb
 
 Api часть в fastapi_ml1.ipynb 
 
-Файл rrr.csv -- данные для тестирования апи, res.csv -- вывод апи для тестовых данных
+Файлы: 
+ - rrr.csv -- данные для тестирования апи
+ -  res.csv -- вывод апи для тестовых данных
+ -  main.py -- сервисная часть
+ -  best_model.pickle -- веса и коэффициенты лучшей модели
 
 Скрины FastApi
 
